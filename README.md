@@ -32,15 +32,15 @@ Ensure you have Node.js and npm installed on your system. You can download Node.
 
 ### Usage
 1. After running the development server, open your web browser.
-2. Navigate to the local server address provided by the terminal (usually `http://localhost:3000`).
-3. Interact with the visualizer by setting start and end points, adding obstacles, and selecting different algorithms to see how they perform.
+2. Navigate to the local server address provided by the terminal (usually `http://localhost:5173`).
+3. Interact with the visualizer by adding obstacles, and selecting different algorithms to see how they perform.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any bug fixes or feature enhancements.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy coding!
+Happy Pathfinding!
