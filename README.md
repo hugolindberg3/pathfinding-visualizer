@@ -4,8 +4,7 @@ Pathfinding Visualizer is a web-based application that allows you to visualize v
 
 ## Features
 - Visualize popular pathfinding algorithms such as Dijkstra's, A*, and more.
-- Interactive grid where you can set start and end points.
-- Add obstacles and watch how algorithms handle them.
+- Interactive grid where you can add walls and watch how algorithms handle them.
 - Speed controls to watch the algorithms in action at your own pace.
 
 ## Getting Started
@@ -16,7 +15,7 @@ Ensure you have Node.js and npm installed on your system. You can download Node.
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/pathfinding-visualizer.git
+    git clone https://github.com/hugolindberg3/pathfinding-visualizer.git
     ```
 2. Navigate to the project directory:
     ```sh
